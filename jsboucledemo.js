@@ -1,8 +1,8 @@
-/*let str = prompt("Mot :");
+let str = prompt("Mot :");
 for (let i = 0; i < str.length; i++) {
 	console.log('Itération numéro:', i);
 	console.log(str.charAt(i));
-}*/
+}
 let j=0;
 while(j<10){
     console.log('Itération numéro:', j);
